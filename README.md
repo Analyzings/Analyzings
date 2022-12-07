@@ -1,0 +1,3 @@
+- 👋 Hi, I’m divertete
+- 🌱 I’m currently learning javascript
+- 📫 You can find me on discord, jiggly#0001
