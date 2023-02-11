@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Analyzings&color=3BA37A&style=plastic&label=profile+views" width="110" height="17" />              
  <a href="https://youtube.com/c/Clayzee" target="_blank">
-<p align="center">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCv6159_GAHIxNS5bzikpN-w?color=3BA37A&label=youtube&style=plastic" width="96" height="17" />
 </a>
 </p>
