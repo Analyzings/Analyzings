@@ -23,7 +23,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/pg4jeegqpc4c5sb6l63zgnuas">
-  <img src="https://novatorem-2wjo-89okb4t7u-analyzings.vercel.app/api/spotify?background_color=0d1117&border_color=3BA37A" alt="Spotify">
+  <img src="https://novatorem-2wjo-89okb4t7u-analyzings.vercel.app/api/spotify" alt="Spotify">
 </a>
 
 <img src="https://camo.githubusercontent.com/ee695eb6b020d1e13dfd05221a435a765345ec7cf3adaae2e3181091fe50f0de/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d336461333761266865696768743d3132302673656374696f6e3d666f6f746572" alt="GitHub footer" />
