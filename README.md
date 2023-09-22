@@ -24,9 +24,6 @@
 <hr width="100%" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/pg4jeegqpc4c5sb6l63zgnuas">
-  <img src="https://novatorem-2wjo-89okb4t7u-analyzings.vercel.app/api/spotify" alt="Spotify">
-</a>
 
 <p align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=792218020125868032" />
