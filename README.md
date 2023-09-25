@@ -11,7 +11,7 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Analyzings&show_icons=true&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub stats" style="height: 193px; width: 450px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Analyzings&layout=compact&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub top languages" style="height: 193px; width: 400px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Analyzings&layout=compact&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub top languages" style="height: 193px; width: 390px;"/>
 </p>
 <hr width="100%" />
 
