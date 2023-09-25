@@ -27,7 +27,7 @@
 
 <p float="left">
   <img src="https://lanyard.cnrad.dev/api/792218020125868032" alt="Discord Presence" style="height: 200px; width: 400px;" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://lastfm-recently-played.vercel.app/api?user=femboyy&count=3" alt="My Scrobbles" style="height: 200px; width: 400px;" />
+  <img src="https://lastfm-recently-played.vercel.app/api?user=femboyy&count=3" alt="My Scrobbles" style="height: 201px; width: 400px;" />
 </p>
 
 
