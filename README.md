@@ -10,7 +10,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&duration=4000&size=35&center=true&vCenter=true&width=1000&lines=welcome;to+my+profile!)
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Analyzings&show_icons=true&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Analyzings&show_icons=true&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub stats" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Analyzings&layout=compact&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub top languages" />
 </p>
 <hr width="100%" />
@@ -25,19 +25,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<p align="left">
-  <a href="https://discord.com/users/792218020125868032">
-    <img src="https://lanyard.cnrad.dev/api/792218020125868032" alt="Discord Presence">
-  </a>
+<p float="left">
+  <img src="https://lanyard.cnrad.dev/api/792218020125868032" alt="Discord Presence" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://lastfm-recently-played.vercel.app/api?user=femboyy&count=3" alt="My Scrobbles" />
 </p>
-
-<p align="right">
-  <a href="https://www.last.fm/user/femboyy">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=femboyy&count=3" alt="My Scrobbles">
-  </a>
-</p>
-
 
 <img src="https://camo.githubusercontent.com/ee695eb6b020d1e13dfd05221a435a765345ec7cf3adaae2e3181091fe50f0de/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d336461333761266865696768743d3132302673656374696f6e3d666f6f746572" alt="GitHub footer" />
-
-
