@@ -26,6 +26,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p float="left">
-  <img src="https://lanyard.cnrad.dev/api/372457344841547786" alt="Discord Presence" style="height: 200px; width: 400px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://lanyard-profile-readme.vercel.app/api/372457344841547786?theme=light&bg=212121&animated=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord" style="height: 200px; width: 400px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://lastfm-recently-played.vercel.app/api?user=femboyy&count=3" alt="My Scrobbles" style="height: 201px; width: 400px;" />
 </p>
