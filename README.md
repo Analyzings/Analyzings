@@ -16,9 +16,7 @@
 <hr width="100%" />
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/910e9fa5713f0f2aa489815db1897e5698c6bfc66af3d123b2912a269ff98ae7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667" width="50" height="50" alt="GitHub programming language count" />
-  <img src="https://camo.githubusercontent.com/91be18bebd8afe5f89a4fb59eeb04ab47b5729a29c868185ee5221407a741c87/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" width="50" height="50" alt="GitHub programming language count" style="margin-left: 10px;">
-  <img src="https://os.mbed.com/media/uploads/allankliu/python.png" width="50" height="50" alt="GitHub programming language count" style="margin-left: 10px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="50" height="50" alt="GitHub programming language count" />
 </p>
 
 <hr width="100%" />
