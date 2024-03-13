@@ -26,9 +26,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p float="left">
-  <img src="https://lanyard.cnrad.dev/api/792218020125868032" alt="Discord Presence" style="height: 200px; width: 400px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://lanyard.cnrad.dev/api/372457344841547786" alt="Discord Presence" style="height: 200px; width: 400px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://lastfm-recently-played.vercel.app/api?user=femboyy&count=3" alt="My Scrobbles" style="height: 201px; width: 400px;" />
 </p>
-
-
-<img src="https://camo.githubusercontent.com/ee695eb6b020d1e13dfd05221a435a765345ec7cf3adaae2e3181091fe50f0de/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d336461333761266865696768743d3132302673656374696f6e3d666f6f746572" alt="GitHub footer" />
