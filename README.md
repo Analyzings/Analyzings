@@ -17,6 +17,7 @@
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="50" height="50" alt="GitHub programming language count" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="50" height="50" alt="GitHub programming language count" />
 </p>
 
 <hr width="100%" />
